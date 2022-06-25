@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/5qw/discordgo"
+	"github.com/Bios-Marcel/discordgo"
 
 	"github.com/5qw/XyzCord/commands"
 	"github.com/5qw/XyzCord/config"

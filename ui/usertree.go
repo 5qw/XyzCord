@@ -9,7 +9,7 @@ import (
 	"github.com/5qw/XyzCord/ui/tviewutil"
 
 	"github.com/5qw/XyzCord/tview"
-	"github.com/5qw/discordgo"
+	"github.com/Bios-Marcel/discordgo"
 	tcell "github.com/gdamore/tcell/v2"
 )
 

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/5qw/discordgo"
+	"github.com/Bios-Marcel/discordgo"
 )
 
 const friendsDocumentation = `[orange][::u]# friends[white]
