@@ -1,0 +1,11 @@
+XyzCord.rb
+XyzCord.json
+XyzCord_darwin
+XyzCord_linux_64
+XyzCord
+XyzCord_64.exe
+XyzCord_32.exe
+XyzCord_debug
+.idea/
+*.log
+theme.json

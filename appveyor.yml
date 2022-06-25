@@ -1,0 +1,19 @@
+clone_folder: c:\gopath\src\github.com\5qw\XyzCord
+
+environment:
+  GOPATH: c:\gopath
+  GO111MODULE: on
+build: off
+stack: go 1.13
+
+artifacts:
+  - path: XyzCord.exe
+    name: XyzCord.exe
+
+build_script:
+  - go get -v -d ./...
+  - go build -o XyzCord.exe
+
+test_script:
+  - go vet ./...
+  - go test ./...

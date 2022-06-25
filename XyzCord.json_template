@@ -1,0 +1,18 @@
+{
+	"homepage": "https://github.com/5qw/XyzCord",
+	"description": "A third party discord client alternative.",
+	"license": "BSD-3-Clause",
+	"version": "$RELEASE_DATE",
+	"architecture": {
+		"64bit": {
+			"url": "https://github.com/5qw/XyzCord/releases/download/$RELEASE_DATE/XyzCord_64.exe",
+			"bin": [ ["XyzCord_64.exe", "XyzCord"] ],
+			"hash": "${EXE_64_HASH}"
+		},
+		"32bit": {
+			"url": "https://github.com/5qw/XyzCord/releases/download/$RELEASE_DATE/XyzCord_32.exe",
+			"bin": [ ["XyzCord_32.exe", "XyzCord"] ],
+			"hash": "${EXE_32_HASH}"
+		}
+	}
+}

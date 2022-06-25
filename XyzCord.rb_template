@@ -1,0 +1,25 @@
+class XyzCord < Formula
+    desc "Discord, but in 1984"
+    homepage "https://github.com/5qw/XyzCord"
+    url "https://github.com/5qw/XyzCord/archive/$RELEASE_DATE.tar.gz"
+    version "$RELEASE_DATE"
+    sha256 "$TAR_HASH"
+    head "https://github.com/5qw/XyzCord.git"
+  
+    depends_on "go" => :build
+    depends_on "pngpaste" => :recommended
+  
+    def install
+      ENV["GOPATH"] = HOMEBREW_CACHE/"go_cache"
+      (buildpath/"src/github.com/5qw/XyzCord").install buildpath.children
+      cd "src/github.com/5qw/XyzCord" do
+        system "go", "build", "-o", bin/"XyzCord"
+        prefix.install_metafiles
+      end
+    end
+  
+    test do
+      system "true"
+    end
+  end
+  
