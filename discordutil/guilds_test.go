@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/5qw/discordgo"
+	"github.com/Bios-Marcel/discordgo"
 )
 
 func TestSortGuilds(t *testing.T) {

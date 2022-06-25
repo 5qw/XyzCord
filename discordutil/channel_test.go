@@ -3,7 +3,7 @@ package discordutil
 import (
 	"testing"
 
-	"github.com/5qw/discordgo"
+	"github.com/Bios-Marcel/discordgo"
 )
 
 func TestGetPrivateChannelName(t *testing.T) {

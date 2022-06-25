@@ -3,7 +3,7 @@ package ui
 import (
 	"testing"
 
-	"github.com/5qw/discordgo"
+	"github.com/Bios-Marcel/discordgo"
 
 	"github.com/5qw/XyzCord/config"
 	_ "github.com/5qw/XyzCord/syntax"

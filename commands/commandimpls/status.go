@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/Bios-Marcel/discordemojimap"
-	"github.com/5qw/discordgo"
+	"github.com/Bios-Marcel/discordgo"
 
 	"github.com/5qw/XyzCord/config"
 	"github.com/5qw/XyzCord/ui/tviewutil"

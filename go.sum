@@ -1,7 +1,7 @@
 github.com/Bios-Marcel/discordemojimap v1.0.1 h1:b3UYPO7+h1+ciStkwU/KQCerOmpUNPHsBf4a7EjMdys=
 github.com/Bios-Marcel/discordemojimap v1.0.1/go.mod h1:AoHIpUwf3EVCAAUmk+keXjb9khyZcFnW84/rhJd4IkU=
-github.com/5qw/discordgo v0.21.2-0.20201025194456-7046b5509389 h1:Ha9AEp9HwOZElVwWWiA/aYU4g6dOYwJIhnxYf8XsNSo=
-github.com/5qw/discordgo v0.21.2-0.20201025194456-7046b5509389/go.mod h1:tHeTdL2sSGuZcRHa+lp+SteLEy/XdVQisWlsMXa33L4=
+github.com/Bios-Marcel/discordgo v0.21.2-0.20201025194456-7046b5509389 h1:Ha9AEp9HwOZElVwWWiA/aYU4g6dOYwJIhnxYf8XsNSo=
+github.com/Bios-Marcel/discordgo v0.21.2-0.20201025194456-7046b5509389/go.mod h1:tHeTdL2sSGuZcRHa+lp+SteLEy/XdVQisWlsMXa33L4=
 github.com/5qw/goclipimg v0.0.0-20191117180634-d0f7b06fbe82 h1:gspJ6CW9bhboosSISmuX2iq03pUsYHzlJN0s+z4fz4E=
 github.com/5qw/goclipimg v0.0.0-20191117180634-d0f7b06fbe82/go.mod h1:hiFR6fH5+uc/f2yK2syh/UfzaPfGo6F2HJSoiI4ufWU=
 github.com/5qw/shortnotforlong v1.1.1 h1:cCJIp6MODd4rwH5Y+fAMAaIuFxS1FPKfwDbRzsCU9nM=

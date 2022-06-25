@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/5qw/discordgo"
+	"github.com/Bios-Marcel/discordgo"
 )
 
 // GuildLoader reflects an instance that allows loading guilds from a discord backend.

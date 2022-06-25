@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/5qw/XyzCord/tview"
-	"github.com/5qw/discordgo"
+	"github.com/Bios-Marcel/discordgo"
 
 	"github.com/5qw/XyzCord/commands/commandimpls"
 	"github.com/5qw/XyzCord/config"
