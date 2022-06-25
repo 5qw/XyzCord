@@ -21,7 +21,7 @@ import (
 	"github.com/5qw/XyzCord/version"
 
 	"github.com/Bios-Marcel/discordemojimap"
-	"github.com/5qw/goclipimg"
+	"github.com/Bios-Marcel/goclipimg"
 
 	"github.com/atotto/clipboard"
 
