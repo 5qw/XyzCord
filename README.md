@@ -1,23 +1,5 @@
 <h1 align="center">XyzCord</h1>
 
-<p align="center">
-  <a href="https://circleci.com/gh/5qw/XyzCord">
-    <img src="https://img.shields.io/circleci/build/gh/5qw/XyzCord?label=linux&logo=linux&logoColor=white">
-  </a>
-  <a href="https://travis-ci.org/5qw/XyzCord">
-    <img src="https://img.shields.io/travis/5qw/XyzCord?label=darwin&logo=apple&logoColor=white">
-  </a>
-  <a href="https://ci.appveyor.com/project/5qw/XyzCord/branch/master">
-    <img src=https://img.shields.io/appveyor/ci/5qw/XyzCord?label=windows&logo=windows&logoColor=white">
-  </a>
-  <a href="https://codecov.io/gh/5qw/XyzCord">
-     <img src="https://codecov.io/gh/5qw/XyzCord/branch/master/graph/badge.svg">
-  </a>
-  <a href="https://discord.gg/fxFqszu">
-     <img src="https://img.shields.io/discord/600329866558308373.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2">
-  </a>
-</p>
-
 ## Overview
 
 - [Credits](#credits)
