@@ -6,7 +6,7 @@ import (
 
 	"github.com/5qw/XyzCord/ui/tviewutil"
 
-	"github.com/Bios-Marcel/discordgo"
+	"github.com/5qw/discordgo"
 
 	"github.com/5qw/XyzCord/config"
 )

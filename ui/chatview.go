@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	linkshortener "github.com/Bios-Marcel/shortnotforlong"
+	linkshortener "github.com/5qw/shortnotforlong"
 	tcell "github.com/gdamore/tcell/v2"
 
 	"github.com/5qw/XyzCord/config"
@@ -20,7 +20,7 @@ import (
 	"github.com/5qw/XyzCord/ui/tviewutil"
 
 	"github.com/5qw/XyzCord/tview"
-	"github.com/Bios-Marcel/discordgo"
+	"github.com/5qw/discordgo"
 
 	// Blank import for initializing the tview formatter
 	_ "github.com/5qw/XyzCord/syntax"

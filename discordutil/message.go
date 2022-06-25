@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Bios-Marcel/discordgo"
+	"github.com/5qw/discordgo"
 
 	"github.com/5qw/XyzCord/times"
 	"github.com/5qw/XyzCord/util/files"

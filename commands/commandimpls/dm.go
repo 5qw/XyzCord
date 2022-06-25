@@ -6,7 +6,7 @@ import (
 
 	"github.com/5qw/XyzCord/discordutil"
 	"github.com/5qw/XyzCord/ui"
-	"github.com/Bios-Marcel/discordgo"
+	"github.com/5qw/discordgo"
 )
 
 const (

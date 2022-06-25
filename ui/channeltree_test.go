@@ -3,7 +3,7 @@ package ui
 import (
 	"testing"
 
-	"github.com/Bios-Marcel/discordgo"
+	"github.com/5qw/discordgo"
 	tcell "github.com/gdamore/tcell/v2"
 )
 

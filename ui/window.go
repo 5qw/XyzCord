@@ -21,11 +21,11 @@ import (
 	"github.com/5qw/XyzCord/version"
 
 	"github.com/Bios-Marcel/discordemojimap"
-	"github.com/Bios-Marcel/goclipimg"
+	"github.com/5qw/goclipimg"
 
 	"github.com/atotto/clipboard"
 
-	"github.com/Bios-Marcel/discordgo"
+	"github.com/5qw/discordgo"
 	tcell "github.com/gdamore/tcell/v2"
 	"github.com/gen2brain/beeep"
 
