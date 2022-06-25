@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/5qw/discordemojimap"
+	"github.com/Bios-Marcel/discordemojimap"
 	"github.com/5qw/discordgo"
 
 	"github.com/5qw/XyzCord/commands"

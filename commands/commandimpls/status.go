@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/5qw/discordemojimap"
+	"github.com/Bios-Marcel/discordemojimap"
 	"github.com/5qw/discordgo"
 
 	"github.com/5qw/XyzCord/config"

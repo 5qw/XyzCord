@@ -20,7 +20,7 @@ import (
 	"github.com/5qw/XyzCord/util/text"
 	"github.com/5qw/XyzCord/version"
 
-	"github.com/5qw/discordemojimap"
+	"github.com/Bios-Marcel/discordemojimap"
 	"github.com/5qw/goclipimg"
 
 	"github.com/atotto/clipboard"
