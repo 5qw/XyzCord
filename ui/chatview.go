@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	linkshortener "github.com/5qw/shortnotforlong"
+	linkshortener "github.com/Bios-Marcel/shortnotforlong"
 	tcell "github.com/gdamore/tcell/v2"
 
 	"github.com/5qw/XyzCord/config"
