@@ -14,7 +14,11 @@ import (
 	"github.com/5qw/XyzCord/util/text"
 )
 
-const splashText = `XYZCord - A discord terminal mode`
+const splashText = 
+"(|、
+(` -7
+|、⁻〵
+じしˍ,)/ XYZCord - A discord terminal mode"
 
 type LoginType int
 
